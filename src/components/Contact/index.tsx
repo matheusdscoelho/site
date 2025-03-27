@@ -27,14 +27,14 @@ const Contact = () => {
   return (
     <div className="flex flex-col md:flex-row items-center justify-center py-12 px-6 bg-gray-200 dark:bg-zinc-900" id="contact">
       <div className="md:w-1/3 text-center md:text-center">
-        <h2 className="text-4xl font-bold text-rose-400 mb-4 dark:text-white">Entre em Contato</h2>
+        <h2 className="text-4xl font-bold text-rose-400 mb-4 dark:text-white">Contact</h2>
         <p className="text-lg text-gray-700 mb-6 dark:text-gray-300">
-          Se você tiver alguma dúvida ou sugestão, fique à vontade para enviar uma mensagem!
+        If you have any questions or suggestions, feel free to send a message!
         </p>
         <div className="text-lg text-gray-600 dark:text-gray-300">
           <p><strong>Nome:</strong> Matheus Coelho</p>
-          <p><strong>Email:</strong> matheus@exemplo.com</p>
-          <p><strong>Telefone:</strong> (31) 99999-9999</p>
+          <p><strong>Email:</strong> matheuscoelho060@gmail.com</p>
+          <p><strong>Telefone:</strong> +55 (31) 9 9529-1319</p>
         </div>
       </div>
 
